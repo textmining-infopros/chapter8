@@ -8,3 +8,6 @@ Please cite this compendium as: xxxxxxx
 
 # Contents
 The compendium contains the data associated with the case study. The `8a_dataset` file contains the data and RapidMiner platform was used to perform the case study.
+
+# License
+**Data:** MIT License
