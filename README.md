@@ -4,7 +4,7 @@
 This repository contains a reproducible research compendium for the case study used in the book:
 Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature.
 
-# How to cite
+# How to Cite
 Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Predictive Modeling of Documents using RapidMiner (Version 1.0). http://doi.org/10.5281/zenodo.5090232
 
 # Contents
