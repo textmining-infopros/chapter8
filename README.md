@@ -12,7 +12,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professio
 📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter8/issues)
 
 # How to Cite
-Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Predictive Modeling of Documents using RapidMiner (Version 1.0). http://doi.org/10.5281/zenodo.5090232**
+Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Predictive Modeling of Documents using RapidMiner (Version 1.1). https://doi.org/10.5281/zenodo.5203567**
 
 # Contents
 The compendium contains the data associated with the case study. The `8a_dataset` file contains the data and RapidMiner platform was used to perform the case study.
